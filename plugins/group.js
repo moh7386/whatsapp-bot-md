@@ -195,7 +195,7 @@ bot(
 
 bot(
 	{
-		pattern: 'revoke',
+		pattern: 'ريست',
 		fromMe: fm,
 		onlyGroup: true,
 		type: 'group',
